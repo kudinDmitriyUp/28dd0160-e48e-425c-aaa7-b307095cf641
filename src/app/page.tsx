@@ -128,6 +128,7 @@ export default function LandingPage() {
 
   <div id="features" data-section="features">
       <FeatureBento
+      animationType="on-scroll"
       textboxLayout="split"
       useInvertedBackground={true}
       features={[
