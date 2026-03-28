@@ -52,7 +52,7 @@ export default function LandingPage() {
             ]}
             buttonAnimation="slide-up"
             background={{ variant: "plain" }}
-            imageSrc="https://pixabay.com/get/g5f13a9fa511dcf4abac398237df089cad91a8b636d7c13f6650104b4d4283c12db6a95002827a9f42ced57c8604ac1a2c094c34be6c02c2c4fe7d5a1ab2d85b3_1280.jpg"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AKqrBFrYu9uyVO5z9TwPRQglRb/tmp/nature-1774725090889-be559ce0.png"
             mediaAnimation="blur-reveal"
           />
         </div>
