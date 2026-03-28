@@ -35,7 +35,9 @@ export default function LandingPage() {
               { name: "Our Story", id: "about" },
               { name: "Products", id: "products" },
               { name: "Contact", id: "contact" },
-            ]}
+            
+              { name: "Blog", id: "/blog" },
+]}
             brandName="Lumina Skincare"
           />
         </div>
